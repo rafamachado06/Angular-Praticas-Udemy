@@ -1,0 +1,10 @@
+.warning {
+  font-weight: bold;
+  padding: 20px;
+  background-color: mistyrose;
+  border: 1px solid red;
+}
+
+.warning-color {
+  color: darkred;
+}
